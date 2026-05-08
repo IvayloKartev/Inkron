@@ -1,5 +1,5 @@
 # NovisX
-Simple game engine for developping visual novels.
+Simple game engine for developping visual novels and 2D games with little code.
 
 ## Installation
 
